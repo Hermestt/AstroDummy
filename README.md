@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+https://github.com/Hermestt/AstroDummy.git
+
 ```
 npm create astro@latest -- --template minimal
 ```
